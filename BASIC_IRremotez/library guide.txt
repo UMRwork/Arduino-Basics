@@ -1,0 +1,5 @@
+The zipfile here is the lirary need to be used
+
+go to:
+Sketch >> Include library >> Add .ZIP Library...
+then choose the library zipfile
